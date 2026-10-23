@@ -1,0 +1,16 @@
+# Compiled output
+build/
+*.class
+
+# Local dependency caches
+junit.jar
+*.jar
+
+# IDE / OS noise
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Local environment
+.env
